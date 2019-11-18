@@ -1,0 +1,20 @@
+.frame {
+    height: 300px; /* equals max image height */
+    white-space: nowrap;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+img {
+    /*background: #3A6F9A;*/
+    vertical-align: middle;
+    max-height: 250px;
+    max-width: 300px;
+}
+
